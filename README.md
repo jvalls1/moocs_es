@@ -1,2 +1,2 @@
 # moocs_es
-Lista de moocs realizados
+Lista de MOOCs realizados
