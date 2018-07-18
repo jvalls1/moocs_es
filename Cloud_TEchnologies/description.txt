@@ -1,0 +1,15 @@
+Introduction to Cloud Infrastructure Technologies will help you grasp the basics of Cloud Computing and understand the terminology, 
+tools, and technologies associated with today’s top Cloud platforms. Whether you are a developer, system administrator, 
+or network computing professional just starting out, having specific Cloud skills can help pave the way to a lucrative career 
+in technology. However, getting started and researching all things Cloud can be complicated and time consuming. 
+This course maps out the entire Cloud landscape and explains how various tools and platforms fit together. 
+Among the topics covered are:
+
+Next-generation cloud technologies
+Learn about Cloud and container technologies like Docker, CoreOS, Cloud Foundry, Kubernetes and OpenStack, as well as the tooling around them.
+Scalable and performant compute, storage and network solutions
+Get an overview of software defined storage and software defined networking solutions.
+Solutions employed by companies to meet their business demands
+Study up on DevOps and Continuous Integration practices, as well as the deployment tools available to architects to meet and exceed 
+their business goals. No previous Cloud experience is required for this course. Introduction to Cloud Infrastructure Technologies 
+gives you the knowledge and tools to make smart decisions about which Cloud services and applications to use depending on your needs.
