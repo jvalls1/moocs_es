@@ -1,0 +1,19 @@
+Columbia Berkeley CS190.1x. Scalable Machine Learning. Plaform Edx.
+
+COURSE OVERVIEW
+Machine learning aims to extract knowledge from data and enables a wide range of applications. 
+With datasets rapidly growing in size and complexity, learning techniques are fast becoming a core 
+component of large-scale data processing pipelines. This course introduces the underlying statistical 
+and algorithmic principles required to develop scalable real-world machine learning pipelines. 
+We present an integrated view of data processing by highlighting the various components of these pipelines, 
+including feature extraction, supervised learning, model evaluation, and exploratory data analysis. 
+Students will gain hands-on experience applying these principles by using Apache Spark to implement several scalable learning pipelines.
+
+PREREQUISITES
+Programming background; comfort with mathematical and algorithmic reasoning; familiarity with basic machine learning concepts; 
+exposure to algorithms, probability, linear algebra and calculus; experience with Python (or the ability to learn it quickly). 
+All exercises will use PySpark, but previous experience with Spark or distributed computing is NOT required. 
+You should take this Python quiz before the course and take this Python mini-course if you need to learn Python or refresh your 
+Python knowledge. This self-assessment document provides online resources that review additional 
+relevant background material. 
+
