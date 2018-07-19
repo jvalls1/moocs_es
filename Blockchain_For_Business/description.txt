@@ -1,0 +1,25 @@
+Linux Foundation. Platform Edx.
+
+Discover the power of business blockchains and distributed ledger technologies with 
+an overview of Hyperledger and introductions to its key frameworks. 
+Blockchains have quickly gained popularity in several industries. 
+This introductory course is carefully curated for both nontechnical and technical audiences. 
+It examines blockchains for the enterprise and a number of pertinent use cases. 
+Hyperledger is a group of open source blockchain-based projects organized by The Linux Foundation. 
+Industries are researching how blockchains may increase efficiency and solve business problems associated 
+with data privacy, security, information sharing, and inclusion. What are blockchain & distributed ledger 
+technologies and how might they impact global business?
+
+The course covers key features of blockchain technologies and the differentiators between various types of Hyperledger 
+blockchain frameworks. We shall start with ‘What is blockchain?’ and open the discussion on where blockchain technology 
+is suitable for your business requirements. We then take a deep dive into the enterprise-ready Hyperledger blockchain 
+frameworks by guiding students through a demonstrated scenario.
+
+Students with a technical background should be able to perform clean installations of Hyperledger Sawtooth and Hyperledger Fabric, 
+as well as, develop simple applications on top of these frameworks. They will gain an understanding of various types of blockchains 
+and which one is most suitable for any particular project.
+
+Students with a business background should gain an understanding of how blockchains work and how they can create value for their
+business through cost savings and efficiencies in terms of speed and simplicity. They will view how information is generated, stored, 
+and shared in various blockchains, as well as, gain tools to evaluate whether or not a blockchain solution would be suitable for their 
+particular business case.
